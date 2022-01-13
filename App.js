@@ -4,7 +4,7 @@ import {Text, StyleSheet, SafeAreaView, TouchableHighlight, } from 'react-native
 const ParagraphDetail = () =>{
   
   var MadanParagraph  = "Madan Gowri is an Indian YouTuber with over 1.5 Million subscribers on his YouTube channel, which he created on December 5, 2013. He was born on 28th May 1988 (Birthday), in Madurai, Tamil Nadu,"+
-                        "India. Madan's Current age will be 28 years, 7 month, 15 days https://github.com/Jaffrinsampaul"
+                        "India. Madan's Current age will be 28 years, 7 month, 15 days "
 
   const [isReadMore, setISReadMore] = useState(true);
 
